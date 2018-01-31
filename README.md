@@ -33,8 +33,8 @@ by Vitalik Buterin.
 - [ConsenSys](https://github.com/ConsenSys/Tokens/tree/master/contracts/eip20)
 - [OpenZeppelin](https://github.com/OpenZeppelin/zeppelin-solidity/tree/master/contracts/token/ERC20)
 
-[![Run on EthFiddle](static/ethfiddle.svg)](https://ethfiddle.com/)
-[![Run on Remix](static/remix.svg)](https://remix.ethereum.org/)
+[![Run on EthFiddle](static/ethfiddle.svg)](https://ethfiddle.com/1qsZ_6IMXa)
+[![Run on Remix](static/remix.svg)](https://ethereum.github.io/browser-solidity/#version=soljson-v0.4.19+commit.c4cbbb05.js&optimize=false&gist=539b19641ef8d635b8b9815fff5e6e10)
 
 ### ERC721
 
@@ -50,8 +50,8 @@ company behind [CryptoKitties](https://www.cryptokitties.co/).
 #### Implementations
 - [OpenZeppelin](https://github.com/OpenZeppelin/zeppelin-solidity/tree/master/contracts/token/ERC721)
 
-[![Run on EthFiddle](static/ethfiddle.svg)](https://ethfiddle.com/)
-[![Run on Remix](static/remix.svg)](https://remix.ethereum.org/)
+[![Run on EthFiddle](static/ethfiddle.svg)](https://ethfiddle.com/iJSyouNfF2)
+[![Run on Remix](static/remix.svg)](https://ethereum.github.io/browser-solidity/#version=soljson-v0.4.19+commit.c4cbbb05.js&optimize=false&gist=43b97dc45f48012eca52081ac1923de4)
 
 ### ERC777
 
@@ -69,8 +69,8 @@ contracts) with rights to manage the tokens in circulation (eg. an exchange).
 #### Implementations
 - [jacquesd](https://github.com/jacquesd/eip777/blob/master/contracts/ReferenceToken.sol)
 
-[![Run on EthFiddle](static/ethfiddle.svg)](https://ethfiddle.com/)
-[![Run on Remix](static/remix.svg)](https://remix.ethereum.org/)
+[![Run on EthFiddle](static/ethfiddle.svg)](https://ethfiddle.com/Ad5IWIm3sW)
+[![Run on Remix](static/remix.svg)](https://ethereum.github.io/browser-solidity/#version=soljson-v0.4.19+commit.c4cbbb05.js&optimize=false&gist=f86c75146a8f28c7e8a67eeb9f147141)
 
 ### ERC827
 
@@ -82,8 +82,8 @@ contracts) with rights to manage the tokens in circulation (eg. an exchange).
 #### Implementations
 - [OpenZeppelin](https://github.com/OpenZeppelin/zeppelin-solidity/tree/master/contracts/token/ERC827)
 
-[![Run on EthFiddle](static/ethfiddle.svg)](https://ethfiddle.com/)
-[![Run on Remix](static/remix.svg)](https://remix.ethereum.org/)
+<!-- [![Run on EthFiddle](static/ethfiddle.svg)](https://ethfiddle.com/)
+[![Run on Remix](static/remix.svg)](https://remix.ethereum.org/) -->
 
 ### MiniMe
 
@@ -95,8 +95,8 @@ contracts) with rights to manage the tokens in circulation (eg. an exchange).
 #### Implementations
 - [Giveth](https://github.com/Giveth/minime/blob/master/contracts/MiniMeToken.sol)
 
-[![Run on EthFiddle](static/ethfiddle.svg)](https://ethfiddle.com/)
-[![Run on Remix](static/remix.svg)](https://remix.ethereum.org/)
+[![Run on EthFiddle](static/ethfiddle.svg)](https://ethfiddle.com/bw0ojHMrGG)
+[![Run on Remix](static/remix.svg)](https://ethereum.github.io/browser-solidity/#version=soljson-v0.4.19+commit.c4cbbb05.js&optimize=false&gist=fe7ee566b28bd525637481ddaa22a4c0)
 
 ## Credits
 
