@@ -2,17 +2,15 @@
   <img src='https://user-images.githubusercontent.com/1913316/35437267-8bf59230-0289-11e8-98a1-0b2935ddb89e.png' width='200'/>
 </p>
 
-> This is a WIP - contributions welcome!
-
 ## Comparison of Ethereum Token Standards
 
-| Token standard | Fungible | ERC20 Compatible |
-| :------------- | :------- | :--------------- |
-| ERC20 | ✓ | - |
-| ERC721 |  |  |
-| ERC777 | ✓ | ✓ |
-| ERC827 | ✓ | ✓ |
-| MiniMe | ✓ | ✓ |
+| Token standard | Status | Fungible | ERC20 Compatible |
+| :------------- | :----- | :------- | :--------------- |
+| ERC20  | Accepted | ✓ | - |
+| ERC721 | Draft |  |  |
+| ERC777 | Draft | ✓ | ✓ |
+| ERC827 | Draft | ✓ | ✓ |
+| MiniMe | n/a | ✓ | ✓ |
 
 ### ERC20
 
@@ -40,7 +38,7 @@ by Vitalik Buterin.
 
 > Non-fungible Token Standard
 
-- [Standard specification](https://github.com/ethereum/EIPs/issues/721)
+- [Standard specification](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md)
 - Created on 2017-09-20
 
 ERC721 is a standard for non-fungible tokens (tokens that cannot be exchanged).
@@ -91,6 +89,7 @@ contracts) with rights to manage the tokens in circulation (eg. an exchange).
 
 - [Standard specification](https://github.com/Giveth/minime)
 - Created on 2016-11-06
+- Note: MiniMe is not on the Ethereum standards track
 
 #### Implementations
 - [Giveth](https://github.com/Giveth/minime/blob/master/contracts/MiniMeToken.sol)
