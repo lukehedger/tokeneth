@@ -10,6 +10,7 @@
 | ERC721 | Draft |  |  |
 | ERC777 | Draft | ✓ | ✓ |
 | ERC827 | Draft | ✓ | ✓ |
+| ERC981 | Draft | - |  |
 | MiniMe | n/a | ✓ | ✓ |
 
 ### ERC20
@@ -79,6 +80,16 @@ contracts) with rights to manage the tokens in circulation (eg. an exchange).
 
 #### Implementations
 - [OpenZeppelin](https://github.com/OpenZeppelin/zeppelin-solidity/tree/master/contracts/token/ERC827)
+
+<!-- [![Run on EthFiddle](static/ethfiddle.svg)](https://ethfiddle.com/)
+[![Run on Remix](static/remix.svg)](https://remix.ethereum.org/) -->
+
+### ERC981
+
+> Barter Token Standard
+
+- [Standard specification](https://github.com/ethereum/EIPs/issues/981)
+- Created on 2018-04-07
 
 <!-- [![Run on EthFiddle](static/ethfiddle.svg)](https://ethfiddle.com/)
 [![Run on Remix](static/remix.svg)](https://remix.ethereum.org/) -->
